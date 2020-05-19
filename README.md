@@ -1,3 +1,19 @@
+# Task-Independent Spiking Central Pattern Generator: A Learning-Based Approach #
+
+#### in NEPL 2020 [[Project]](https://sites.google.com/view/task-independent-cpg/home) [[PDF]](https://link.springer.com/article/10.1007/s11063-020-10224-9)
+
+If you use this implementation, please cite our paper.
+```
+@article{aljalbout2020task,
+  title={Task-Independent Spiking Central Pattern Generator: A Learning-Based Approach},
+  author={Aljalbout, Elie and Walter, Florian and R{\"o}hrbein, Florian and Knoll, Alois},
+  journal={Neural Processing Letters},
+  pages={1--14},
+  year={2020},
+  publisher={Springer}
+}
+```
+
 #### Requirements
 - NEST 
 - numpy
