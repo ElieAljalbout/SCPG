@@ -1,6 +1,6 @@
 # Task-Independent Spiking Central Pattern Generator: A Learning-Based Approach #
 
-#### in NEPL 2020 [[Project]](https://sites.google.com/view/task-independent-cpg/home) [[PDF]](https://link.springer.com/article/10.1007/s11063-020-10224-9)
+#### in NEPL 2020 [[Project]](https://sites.google.com/view/task-independent-cpg/home) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11063-020-10224-9.pdf)
 
 If you use this implementation, please cite our paper.
 ```
